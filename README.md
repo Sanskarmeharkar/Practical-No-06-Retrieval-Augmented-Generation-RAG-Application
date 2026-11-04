@@ -1,0 +1,1 @@
+# Practical-No-06-Retrieval-Augmented-Generation-RAG-Application
